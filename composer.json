@@ -2,7 +2,6 @@
     "name": "okolesnyk/composer_verifier",
     "description": "Composer verifier",
     "type": "library",
-    "version": "3.0.0-RC1",
     "license": "AGPL-3.0",
     "keywords": ["magento", "automation", "functional", "testing"],
     "config": {
